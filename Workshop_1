@@ -1,7 +1,0 @@
-echo "# CSS_Workshop" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jbc543/CSS_Workshop.git
-git push -u origin main
